@@ -4,7 +4,7 @@
 	<groupId>edu.cmu.lti.oaqa.core</groupId>
 	<artifactId>lucene-frequent-phrase</artifactId>
   <name>Frequent Phrase Extractor for Lucene Index and Text Collection</name>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
   <url>https://github.com/ziy/lucene-frequent-phrase</url>
   <inceptionYear>2014</inceptionYear>
   <licenses>
@@ -18,7 +18,7 @@
     <url>git@github.com:ziy/lucene-frequent-phrase.git</url>
     <connection>scm:git:git@github.com:ziy/lucene-frequent-phrase.git</connection>
     <developerConnection>scm:git:git@github.com:ziy/lucene-frequent-phrase.git</developerConnection>
-    <tag>lucene-frequent-phrase-0.0.1</tag>
+    <tag>HEAD</tag>
   </scm>
   <distributionManagement>
     <repository>
